@@ -1,0 +1,29 @@
+5
+Falánk p 7
+Sudár d 5
+Furi b 10
+Köpcös b 4
+Nyúlánk d 3
+3
+
+első nap sugárzás igények: 10alfa 8 béta
+kimegy az alfa
+Falánk p 9
+Sudár d 2
+Furi b 11
+Köpcös b 5
+Nyúlánk d 0 nyulank meghal
+
+masodik nap sugarzasi igenyek:10alfa  12beta
+nincs sugarzas
+Falánk p 8
+Sudár d 1
+Furi b 10
+Köpcös b 4
+
+harmadik nap sugarzasi igenyek:20alfa  16beta
+kimegy az alfa
+Falánk p 10
+Sudár meghal
+Furi b 11 
+Köpcös b 5
