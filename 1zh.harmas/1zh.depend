@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1617985707 source:c:\programozas\cpp\codeblocks\1zh\src\shop.cpp
+	"shop.h"
+
+1617985772 c:\programozas\cpp\codeblocks\1zh\include\shop.h
+	<iostream>
+	<sstream>
+	<string>
+	<fstream>
+	<stdio.h>
+	<ctype.h>
+	<vector>
+	<ostream>
+
+1617985782 source:c:\programozas\cpp\codeblocks\1zh\main.cpp
+	<iostream>
+	"shop.h"
+
