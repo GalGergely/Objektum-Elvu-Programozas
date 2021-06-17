@@ -1,0 +1,6 @@
+
+Eszak-Europa Svedorszag 10.2 Apple 512 25.4 Samsung 210 42.3
+Eszak-Europa Finnorszag 5.5 Apple 250 18.2 Samsung 131 23.9 BB 2 2.4
+Del-Europa Olaszorszag 60.4 HTC 4 1.2 Samsung 450 59.8
+Kozep-Europa Magyaro 9.7 Xiaomi 70 22.6 Huawei 24 18.3
+Kozep-Europa Ausztria 8.9 Apple 104 36.1 LG 14 8.3 Samsung 50 33.5
